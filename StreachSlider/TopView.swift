@@ -18,7 +18,7 @@ struct TopView: View {
                         .frame(width: 25, height: 25)
                 }
                 .padding(.top,15)
-                Text("Crystal Martin E-Learning Platform")
+                Text("Streach Image Slider")
                     .font(.caption)
                     .foregroundColor(.gray)
             }
